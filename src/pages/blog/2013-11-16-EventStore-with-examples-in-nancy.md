@@ -115,7 +115,7 @@ The code that I have sampled in this post can be [found on GitHub][6] in the pro
    [0]: http://geteventstore.com "Get Event Store"
    [1]: http://download.geteventstore.com/ "Event Store downloads"
    [2]: http://127.0.0.1:2113/
-   [3]: /../images/event-store.png "event store logo"
+   [3]: /../img/event-store.png "event store logo"
    [4]: https://github.com/eventstore/eventstore/wiki/Event-Sourcing-Basics "Event Sourcing Basics"
    [5]: https://github.com/NancyFx/Nancy/wiki/Documentation
    [6]: https://github.com/MacsDickinson/Code-Blame

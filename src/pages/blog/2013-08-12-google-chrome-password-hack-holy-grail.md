@@ -85,14 +85,14 @@ If all else fails just don't save them in your browser. Sure it is lovely to hav
 
 This is definitely a security risk and it is something that Google should look into, at the very least they should remove the feature that lets you view the passwords in plain text. But ultimately it is your responsibility to make sure that your online presence is secured. If you're going to use one email address and one generic password for everything then no amount of security software is going to be able to help you.
 
-   [1]: /../images/aw-snap.png (Aww Snap)
-   [2]: /../images/2013-08-08-10_43_19-Settings-Passwords.png
+   [1]: /../img/aw-snap.png (Aww Snap)
+   [2]: /../img/2013-08-08-10_43_19-Settings-Passwords.png
    [3]: https://twitter.com/PastebinLeaks (Pastebin Leaks)
-   [4]: /../images/2013-08-08-23_05_17-297dbe7699dcfa60609bf9e667e2e4dc-Google-Search.png
+   [4]: /../img/2013-08-08-23_05_17-297dbe7699dcfa60609bf9e667e2e4dc-Google-Search.png
    [5]: http://www.md5-hash.com/md5-hashing-decrypt/297dbe7699dcfa60609bf9e667e2e4dc (MD5 Hash)
    [6]: http://www.linqpad.net/ (Linqpad)
-   [7]: /../images/2013-08-08-11_55_26-Confirm-Location.png
-   [8]: /../images/2013-08-08-22_27_53-Google-Search.png
+   [7]: /../img/2013-08-08-11_55_26-Confirm-Location.png
+   [8]: /../img/2013-08-08-22_27_53-Google-Search.png
    [9]: chrome://settings/passwords
    [10]: http://www.macsentom.co.uk/2013/05/unique-password-generator-securepass/ (Unique Passwords - Why you need them and why SecurePass)
    [11]: http://www.macsentom.co.uk/securepass (SecurePass)

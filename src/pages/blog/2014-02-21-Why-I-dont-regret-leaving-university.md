@@ -4,7 +4,7 @@ tags:
   - Career
 title: Why I don't regret leaving university
 date: 2014-02-21T15:00:00.000Z
-published: draft
+draft: true
 ---
 
 ![I Regret Nothing ][0]
@@ -34,7 +34,7 @@ I'm interested to see what other people in the industry think to this - especial
 * Do you find you also get [Impostor Syndrome][5]?
 * Do you think there is a clear distinction between educated and the self taught developers and what are the pro's and con's?
 
-   [0]: /../images/misfits_regretnothing.gif
+   [0]: /../img/misfits_regretnothing.gif
    [1]: http://www.brecontown.co.uk/
    [2]: http://www.twitter.com/bulldogugly
    [3]: http://www.linqpad.net/

@@ -67,11 +67,11 @@ That's 15 done, 3 started and 12 missed out on. I'm really pleased with what I'v
    [2]: https://www.udacity.com/
    [3]: http://www.leeds-sharp.org/
    [4]: https://uniquify.it/
-   [5]: /../images/fb_florida.jpg
-   [6]: /../images/goals_beer.jpg
+   [5]: /../img/fb_florida.jpg
+   [6]: /../img/goals_beer.jpg
    [7]: http://www.microsoft.com/learning/en-us/exam-70-515.aspx
    [8]: http://www.bbc.co.uk/news/uk-wales-23511938
-   [9]: /../images/goals_pen-y-fan.jpg
+   [9]: /../img/goals_pen-y-fan.jpg
    [10]: https://github.com/MacsDickinson/ASafaHarbor/
    [11]: https://github.com/MacsDickinson/Uniquify.it/
    [12]: https://github.com/Sandra/Sandra.Snow/pull/72
@@ -84,4 +84,4 @@ That's 15 done, 3 started and 12 missed out on. I'm really pleased with what I'v
    [19]: http://www.packtpub.com/nancy-web-development/book
    [20]: http://mat-mcloughlin.net/2013/12/01/twelve-achivements-to-unlock.html
    [21]: /../category/goals/
-   [22]: /../images/goals_talkEventStore.jpg
+   [22]: /../img/goals_talkEventStore.jpg

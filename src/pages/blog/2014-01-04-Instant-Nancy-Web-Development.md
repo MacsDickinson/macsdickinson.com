@@ -27,6 +27,6 @@ As luck would have it there's currently a sale on so you can [grab a copy of the
    [0]: http://twitter.com/chr_horsdal "Christian Horsdal"
    [1]: http://bit.ly/1bIK5hp "Instant Nancy Web Development"
    [2]: http://nancyfx.org "Nancy"
-   [3]: /../images/instant_nancy_web_development.jpg "Instant Nancy Web Development"
+   [3]: /../img/instant_nancy_web_development.jpg "Instant Nancy Web Development"
    [4]: http://www.sinatrarb.com/ "Sinatra"
    [5]: http://www.jamesshore.com/Blog/Red-Green-Refactor.html "Red, Green, Refactor"

@@ -84,4 +84,4 @@ You may have seen [GCHQ's most recent recruitment drive][2]&nbsp;in the news. Ba
    [1]: http://www.amazon.co.uk/Digital-Fortress-Dan-Brown/dp/0552159735 (Digital Fortress on Amazon)
    [2]: http://www.telegraph.co.uk/news/uknews/defence/10301435/Can-you-crack-the-code-GCHQ-unveils-fiendish-puzzle-for-new-recruits.html (Can you crack the code? GCHQ unveils fiendish puzzle for new recruits)
    [3]: https://canyoufindit.co.uk/
-   [4]: /../images/2013-09-12-22_37_22-GCHQ-__-Can-you-find-it_.png (Can you find it - Caesar Box)
+   [4]: /../img/2013-09-12-22_37_22-GCHQ-__-Can-you-find-it_.png (Can you find it - Caesar Box)

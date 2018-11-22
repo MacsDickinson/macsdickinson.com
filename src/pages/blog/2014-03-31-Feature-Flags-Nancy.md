@@ -79,4 +79,4 @@ Now I can simply set the appSetting to true locally and false in production and 
    [2]: http://www.agileyorkshire.org/meetings/simon-davy-on-feature-flags-in-production-and-phil-rice-on-constraint-driven-development
    [3]: http://www.canonical.com/
    [4]: http://martinfowler.com/bliki/FeatureToggle.html
-   [5]: /../images/nancy-not-found.png
+   [5]: /../img/nancy-not-found.png

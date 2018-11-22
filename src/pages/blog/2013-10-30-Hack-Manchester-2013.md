@@ -48,7 +48,7 @@ Roll on next year!
 
    [1]: http://leeds-sharp.org/
    [2]: http://www.hackmanchester.com/
-   [3]: /../images/hackManchester.png
+   [3]: /../img/hackManchester.png
    [4]: https://twitter.com/pauljstead
    [5]: https://twitter.com/ritasker
    [6]: http://www.clockworksms.com/
@@ -67,11 +67,11 @@ Roll on next year!
    [19]: http://developer.github.com/v3/
    [20]: http://en.wikipedia.org/wiki/Lean_Startup
    [21]: http://aimlbot.sourceforge.net/
-   [22]: /../images/dr-clockwork-logo-2.png
+   [22]: /../img/dr-clockwork-logo-2.png
    [23]: http://drclockwork.co.uk/
    [24]: https://vimeo.com/77905665
    [25]: https://twitter.com/dr_clockwork (Dr Clockwork)
-   [26]: /../images/smilies/icon_razz.gif
+   [26]: /../img/smilies/icon_razz.gif
    [27]: https://twitter.com/theallseeingpie
    [28]: https://twitter.com/ruby_gem
    [29]: https://twitter.com/squarejazz

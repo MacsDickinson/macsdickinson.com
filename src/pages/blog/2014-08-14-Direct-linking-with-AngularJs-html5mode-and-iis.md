@@ -6,7 +6,7 @@ tags:
 title: Direct linking with AngularJS html5mode and IIS
 date: 2014-08-14T15:00:00.000Z
 metadescription: Using AngularJs html5mode can cause SEO problems. Find out how to work around them in IIS.
-published: draft
+draft: true
 ---
 
 I've recently started moving the [Yorkshire Digital][0] project over to use [AngularJs][1]. There's a number of reasons behind this decision that I'll discuss in a later post but one of the pain points that I've had was around direct linking with html5mode and the negative impact it has on SEO. I've just managed to get it working so I'm sharing the steps I went through to hopefully save someone else some time.
@@ -57,4 +57,4 @@ Here we are defining the root of the application so yours may be href="/app/" or
    [2]: https://coderwall.com/dustinrjo
    [3]: https://coderwall.com/p/mycbiq
    [4]: http://www.iis.net/learn/extensions/url-rewrite-module/using-the-url-rewrite-module
-   [5]: /../images/angularjs.jpg
+   [5]: /../img/angularjs.jpg

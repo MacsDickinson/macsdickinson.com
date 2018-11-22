@@ -39,7 +39,7 @@ If you need to be a little more specific you can specify the classes added to ea
 This plugin is open source and hosted on [GitHub][4] so feel free to fork and use it how you please. If there is anything that doesn't work for you or there is anything you would like to see adding then leave a comment here.
 
    [0]: http://programmer.97things.oreilly.com/wiki/index.php/Don "Don"
-   [1]: /../images/jquery.autocomplete-300x282.jpg "jquery autocomplete on GitHub"
+   [1]: /../img/jquery.autocomplete-300x282.jpg "jquery autocomplete on GitHub"
    [2]: http://jqueryui.com/autocomplete/ "jquery ui"
    [3]: http://ivaynberg.github.com/select2/ "select2"
    [4]: https://github.com/MacsDickinson/jquery.autocomplete

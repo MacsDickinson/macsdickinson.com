@@ -62,10 +62,10 @@ This lovely one liner tells Nancy of another potential location for the views an
 
 With the top level archetecture nice and easy to navigate the next step is to [make the modules easier to manage][6].
 
-   [0]: /../images/siemens_monitor.jpg
+   [0]: /../img/siemens_monitor.jpg
    [1]: http://www.8thlight.com/team/uncle-bob
    [2]: http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html
-   [3]: /../images/not-feature-folders.png
-   [4]: /../images/feature-folders.png
+   [3]: /../img/not-feature-folders.png
+   [4]: /../img/feature-folders.png
    [5]: https://github.com/NancyFx/Nancy/wiki/View-location-conventions
    [6]: http://www.philliphaydon.com/2013/11/making-nancy-modules-easier-to-manage/

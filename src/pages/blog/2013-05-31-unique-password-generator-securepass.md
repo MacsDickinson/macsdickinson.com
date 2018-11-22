@@ -38,6 +38,6 @@ This app is still young and I have a lot I'd like to add to it. I am currently w
    [1]: http://plaintextoffenders.com/ "plain text offenders"
    [2]: https://drupal.org/news/130529SecurityUpdate "Important Security Update: Reset Your Drupal.org Password"
    [3]: https://wallet.google.com/ "Google Wallet"
-   [4]: /../images//hackers_security_password-100004008-gallery.jpg
+   [4]: /../img/hackers_security_password-100004008-gallery.jpg
    [5]: http://www.macsentom.co.uk/Uniquify "Uniquify - Secure Password Generator"
-   [6]: /../images/Uniquify.png
+   [6]: /../img/Uniquify.png

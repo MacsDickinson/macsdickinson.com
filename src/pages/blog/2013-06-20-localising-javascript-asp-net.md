@@ -97,4 +97,4 @@ Hey presto, there you have it; a purely JavaScript localised calendar control. T
    [2]: http://imperavi.com/redactor/ "redactor" 
    [3]: https://github.com/MacsDickinson/jquery.autocomplete "jquery.autocomplete"
    [4]: http://theonion.github.io/fartscroll.js/ "fartscroll"
-   [5]: /../images/localised_datepicker.png "Localised Zebra Date Picker"
+   [5]: /../img/localised_datepicker.png "Localised Zebra Date Picker"

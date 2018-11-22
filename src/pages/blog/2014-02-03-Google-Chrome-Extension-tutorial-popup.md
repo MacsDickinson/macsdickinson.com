@@ -158,11 +158,11 @@ You can also install the finished sample extension from the [Chrome Web Store][9
 
    [0]: /../category/chrome-extension/ "Chrome extension tutorial series"
    [1]: /../javascript/google-chrome-extension-tutorial-hello-world "GOOGLE CHROME EXTENSION TUTORIALS: HELLO WORLD"
-   [2]: /../images/2014-02-03_15_27_28-Lesson2-icons.png "Chrome Extension Manager"
+   [2]: /../img/2014-02-03_15_27_28-Lesson2-icons.png "Chrome Extension Manager"
    [3]: chrome://extensions/
    [4]: /../javascript/google-chrome-extension-tutorial-hello-world/#unpackedextensions "GOOGLE CHROME EXTENSION TUTORIALS: HELLO WORLD"
    [5]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
-   [6]: /../images/2014-02-03_15_27_28-Lesson2-InstaKitten.png "InstaKitten"
+   [6]: /../img/2014-02-03_15_27_28-Lesson2-InstaKitten.png "InstaKitten"
    [7]: https://github.com/MacsDickinson/ChromeExtensions101/tree/master/Part%202%20-%20Popup.html/
    [8]: https://github.com/MacsDickinson/ChromeExtensions101/tree/master/Part%202%20-%20Popup.html/icons
    [9]: https://chrome.google.com/webstore/detail/instakitten/ldjiocmhpjhpcelgfbdeoenoojgejboc?utm_source=macsdickinson.com

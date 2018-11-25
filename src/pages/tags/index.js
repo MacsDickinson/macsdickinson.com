@@ -20,8 +20,9 @@ const TagsPage = ({
             <ul className="taglist">
               {group.map(tag => (
                 <li key={tag.fieldValue}>
-                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
+                
+                  <Link className="tag is-primary badge is-badge-success" data-badge={tag.totalCount} to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                    {tag.fieldValue}
                   </Link>
                 </li>
               ))}
@@ -42,7 +43,10 @@ export const tagPageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(limit: 1000) {
+    allMarkdownRemark(limit: 1000
+      filter: { frontmatter: { 
+        draft: { ne: true } 
+      }}) {
       group(field: frontmatter___tags) {
         fieldValue
         totalCount

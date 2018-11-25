@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
                             <p>
                                 I've been working in and around software for the last {(new Date()).getFullYear() - 2008} years, 
                                 in a variety of roles. I'm currently working at Sky Betting and Gaming although my thoughts 
-                                and comments on this website are entirely my own.
+                                and comments on here are entirely my own.
                             </p>
                         </div>
                     </div>
